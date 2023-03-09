@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ionic-ngxs-test": {
+      "hosting": {
+        "ngxs-firebase": [
+          "ionic-ngxs-test"
+        ]
+      }
+    }
+  }
+}
